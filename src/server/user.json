@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "fname": "samiksha",
+      "lname": "gurav",
+      "email": "guravsamiksha17@gmail.com",
+      "username": "samgurav",
+      "cpassword": "Sam@123",
+      "password": "$2a$10$F8k/Hm0p.QKlCH7OXx4bHeG6KvIyZIiOO6jiKtfrNl9Fl.osjMGMO",
+      "id": 1
+    }
+   
+  ]
+}

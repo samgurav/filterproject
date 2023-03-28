@@ -1,0 +1,27 @@
+figure{
+    float: left;
+}
+.hover-animation{
+    position: relative;
+    height: 350px;
+    width: 350px;
+    margin-left: 10% auto 0;
+    color: #fff;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+.hover-animation img{
+    position: absolute;
+    left: 0;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -ms-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+
+}
+.hover-animation img.front:hover{
+    opacity: 0;
+    cursor: pointer;
+
+}

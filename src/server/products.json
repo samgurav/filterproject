@@ -1,0 +1,83 @@
+{
+
+  
+  "products":
+[ 
+  {"id": 1,"pname":"cake","price":30,"quantity":4,"images": "./Images/cake1.jpeg","image": "./Images/ca1.jpg" },
+  {"id": 2,"pname":"cupcake","price":40,"quantity":4,"images": "./Images/cp1.jpg","image": "./Images/cc1.jpg"},
+  {"id": 3,"pname":"chocalate","price":50,"quantity":4,"images": "./Images/c1.jpg","image": "./Images/cb1.png"},
+  {"id": 4,"pname":"sweets","price":100,"quantity":4,"images": "./Images/s1.jpg","image": "./Images/s2.jpg"},
+  {"id": 5,"pname":"doughnuts","price":40,"quantity":4,"images": "./Images/d33.jpg","image": "./Images/do1.jpeg"},
+  {"id": 6,"pname":"pestries","price":49,"quantity":4,"images": "./Images/p1.jpg","image": "./Images/pe1.jpg"},
+  {"id": 7,"pname":"chocolate","price":29,"quantity":4,"images": "./Images/c2.jpg","image": "./Images/cb2.jpg"},
+  {"id": 8,"pname":"cake","price":29,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch1.jpg"},
+  {"id": 9,"pname":"doughnuts","price":100,"quantity":4,"images": "./Images/d1.png","image": "./Images/do2.jpg"},
+  {"id": 10,"pname":"cupcake","price":43,"quantity":4,"images": " ./Images/cp2.jpg","image": "./Images/cc2.jpg"},
+  {"id": 11,"pname":"pestries","price":230,"quantity":4,"images": "./Images/d2.jpg","image": "./Images/pe2.jpg"},
+  {"id": 12,"pname":"chocolate","price":20,"quantity":4,"images": "./Images/c4.jpg","image": "./Images/cb3.jpg"},
+  {"id": 13,"pname":"cake","price":40,"quantity":2,"images": "./Images/c3.jpg","image": "./Images/ch2.jpg"},
+  {"id": 14,"pname":"pestries","price":60,"quantity":4,"images": "./Images/p2.jpg","image": "./Images/pe3.jpg"},
+  {"id": 15,"pname":"doughnuts","price":33,"quantity":4,"images": "./Images/d1.png","image": "./Images/do3.jpg"},
+  {"id": 16,"pname":"cake","price":60,"quantity":4,"images": "./Images/cake1.jpeg","image": "./Images/ch3.jpg"},
+  {"id": 17,"pname":"pestries","price":84,"quantity":4,"images": "./Images/p3.jpg","image": "./Images/pe4.jpg"},
+  {"id": 18,"pname":"cupcake","price":59,"quantity":4,"images": "./Images/cp3.jpg","image": "./Images/cc3.jpg"},
+  {"id": 19,"pname":"doughnuts","price":77,"quantity":4,"images": "./Images/d33.jpg","image": "./Images/do4.jpg"},
+  {"id": 20,"pname":"cupcake","price":75,"quantity":4,"images": "./Images/cp4.jpg","image": "./Images/cc4.jpg"},
+  {"id": 21,"pname":"cake","price":30,"quantity":4,"images": "./Images/c3.jpg", "image": "./Images/ch4.jpg"},
+  {"id": 22,"pname":"cake","price":80,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch5.jpg"},
+  {"id": 23,"pname":"cupcake","price":70,"quantity":4,"images": "./Images/cp3.jpg","image": "./Images/cc5.jpg"},
+  {"id": 24,"pname":"sweets","price":49,"quantity":4,"images": "./Images/s2.jpg","image": "./Images/s1.jpg"},
+  {"id": 25,"pname":"chocolate","price":29,"quantity":4,"images": "./Images/c2.jpg","image": "./Images/cb4.jpg"},
+  {"id": 26,"pname":"cake","price":29,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch6.jpg"},
+  {"id": 27,"pname":"doughnuts","price":100,"quantity":4,"images": "./Images/d1.png","image": "./Images/do5.jpg"},
+  {"id": 28,"pname":"cupcake","price":43,"quantity":4,"images": " ./Images/cp2.jpg","image": "./Images/cc6.jpg"},
+  {"id": 29,"pname":"pestries","price":230,"quantity":4,"images": "./Images/d2.jpg","image": "./Images/pe5.jpg"},
+  {"id": 30,"pname":"chocolate","price":20,"quantity":4,"images": "./Images/c4.jpg","image": "./Images/cb5.jpg"},
+  {"id": 31,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s3.jpg","image": "./Images/s2.jpg"},
+  {"id": 32,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s4.jpg","image": "./Images/s2.jpg"},
+  {"id": 33,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s1.jpg","image": "./Images/s4.jpg"}
+
+
+],
+
+
+"All":
+[ 
+  {"id": 1,"pname":"cake","price":30,"quantity":4,"images": "./Images/cake1.jpeg","image": "./Images/ca1.jpg" },
+  {"id": 2,"pname":"cupcake","price":40,"quantity":4,"images": "./Images/cp1.jpg","image": "./Images/cc1.jpg"},
+  {"id": 3,"pname":"chocalate","price":50,"quantity":4,"images": "./Images/c1.jpg","image": "./Images/cb1.png"},
+  {"id": 4,"pname":"sweets","price":100,"quantity":4,"images": "./Images/s1.jpg","image": "./Images/s2.jpg"},
+  {"id": 5,"pname":"doughnuts","price":40,"quantity":4,"images": "./Images/d33.jpg","image": "./Images/do1.jpeg"},
+  {"id": 6,"pname":"pestries","price":49,"quantity":4,"images": "./Images/p1.jpg","image": "./Images/pe1.jpg"},
+  {"id": 7,"pname":"chocolate","price":29,"quantity":4,"images": "./Images/c2.jpg","image": "./Images/cb2.jpg"},
+  {"id": 8,"pname":"cake","price":29,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch1.jpg"},
+  {"id": 9,"pname":"doughnuts","price":100,"quantity":4,"images": "./Images/d1.png","image": "./Images/do2.jpg"},
+  {"id": 10,"pname":"cupcake","price":43,"quantity":4,"images": " ./Images/cp2.jpg","image": "./Images/cc2.jpg"},
+  {"id": 11,"pname":"pestries","price":230,"quantity":4,"images": "./Images/d2.jpg","image": "./Images/pe2.jpg"},
+  {"id": 12,"pname":"chocolate","price":20,"quantity":4,"images": "./Images/c4.jpg","image": "./Images/cb3.jpg"},
+  {"id": 13,"pname":"cake","price":40,"quantity":2,"images": "./Images/c3.jpg","image": "./Images/ch2.jpg"},
+  {"id": 14,"pname":"pestries","price":60,"quantity":4,"images": "./Images/p2.jpg","image": "./Images/pe3.jpg"},
+  {"id": 15,"pname":"doughnuts","price":33,"quantity":4,"images": "./Images/d1.png","image": "./Images/do3.jpg"},
+  {"id": 16,"pname":"cake","price":60,"quantity":4,"images": "./Images/cake1.jpeg","image": "./Images/ch3.jpg"},
+  {"id": 17,"pname":"pestries","price":84,"quantity":4,"images": "./Images/p3.jpg","image": "./Images/pe4.jpg"},
+  {"id": 18,"pname":"cupcake","price":59,"quantity":4,"images": "./Images/cp3.jpg","image": "./Images/cc3.jpg"},
+  {"id": 19,"pname":"doughnuts","price":77,"quantity":4,"images": "./Images/d33.jpg","image": "./Images/do4.jpg"},
+  {"id": 20,"pname":"cupcake","price":75,"quantity":4,"images": "./Images/cp4.jpg","image": "./Images/cc4.jpg"},
+  {"id": 21,"pname":"cake","price":30,"quantity":4,"images": "./Images/c3.jpg", "image": "./Images/ch4.jpg"},
+  {"id": 22,"pname":"cake","price":80,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch5.jpg"},
+  {"id": 23,"pname":"cupcake","price":70,"quantity":4,"images": "./Images/cp3.jpg","image": "./Images/cc5.jpg"},
+  {"id": 24,"pname":"sweets","price":49,"quantity":4,"images": "./Images/s2.jpg","image": "./Images/s1.jpg"},
+  {"id": 25,"pname":"chocolate","price":29,"quantity":4,"images": "./Images/c2.jpg","image": "./Images/cb4.jpg"},
+  {"id": 26,"pname":"cake","price":29,"quantity":4,"images": "./Images/cake2.jpg","image": "./Images/ch6.jpg"},
+  {"id": 27,"pname":"doughnuts","price":100,"quantity":4,"images": "./Images/d1.png","image": "./Images/do5.jpg"},
+  {"id": 28,"pname":"cupcake","price":43,"quantity":4,"images": " ./Images/cp2.jpg","image": "./Images/cc6.jpg"},
+  {"id": 29,"pname":"pestries","price":230,"quantity":4,"images": "./Images/d2.jpg","image": "./Images/pe5.jpg"},
+  {"id": 30,"pname":"chocolate","price":20,"quantity":4,"images": "./Images/c4.jpg","image": "./Images/cb5.jpg"},
+  {"id": 31,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s3.jpg","image": "./Images/s2.jpg"},
+  {"id": 32,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s4.jpg","image": "./Images/s2.jpg"},
+  {"id": 33,"pname":"sweets","price":20,"quantity":4,"images": "./Images/s1.jpg","image": "./Images/s4.jpg"}
+
+
+]
+
+}
